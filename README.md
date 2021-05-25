@@ -1,1 +1,1 @@
-# nirbkuma-JAVA-Design-Patterns
+# JAVA-Design-Patterns
