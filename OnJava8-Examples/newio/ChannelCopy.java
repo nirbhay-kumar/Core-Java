@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Copying a file using channels and buffers
 // {java ChannelCopy ChannelCopy.java test.txt}
+package newio;
 import java.nio.*;
 import java.nio.channels.*;
 import java.io.*;

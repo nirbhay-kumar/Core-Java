@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Using transferTo() between channels
 // {java TransferTo TransferTo.java TransferTo.txt}
+package newio;
 import java.nio.channels.*;
 import java.io.*;
 

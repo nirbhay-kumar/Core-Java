@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Synchronizing blocks instead of entire methods
 // speeds up access.
+package lowlevel;
 import java.util.*;
 import java.util.stream.*;
 import java.util.concurrent.*;

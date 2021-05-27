@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Manipulating ints in a ByteBuffer with an IntBuffer
+package newio;
 import java.nio.*;
 
 public class IntBufferDemo {

@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // When threads collide
 // {VisuallyInspectOutput}
-
+package lowlevel;
 public class EvenProducer extends IntGenerator {
   private int currentEvenValue = 0;
   @Override public int next() {

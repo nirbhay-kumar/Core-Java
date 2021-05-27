@@ -5,7 +5,7 @@
 // javap -c NotAtomic
 // {ExcludeFromGradle}
 // {VisuallyInspectOutput}
-
+package lowlevel;
 public class NotAtomic {
   int i;
   void f1() { i++; }

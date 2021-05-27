@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Creating a very large file using mapping
+package newio;
 import java.nio.*;
 import java.nio.channels.*;
 import java.io.*;
