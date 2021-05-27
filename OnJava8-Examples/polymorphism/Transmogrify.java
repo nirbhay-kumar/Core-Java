@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Dynamically changing the behavior of an object
 // via composition (the "State" design pattern)
-
+package polymorphism;
 class Actor {
   public void act() {}
 }

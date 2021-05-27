@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Demonstrates short-circuiting of *Match() operations
+package streams;
 import java.util.stream.*;
 import java.util.function.*;
 import static streams.RandInts.*;

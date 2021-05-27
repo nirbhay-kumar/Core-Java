@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Examination of the way the class loader works
-
+package reflection;
 class Cookie {
   static { System.out.println("Loading Cookie"); }
 }

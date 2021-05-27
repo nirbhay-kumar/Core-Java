@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Method calls implicitly alias their arguments
-
+package references;
 public class Alias2 {
   private int i;
   public Alias2(int i) { this.i = i; }

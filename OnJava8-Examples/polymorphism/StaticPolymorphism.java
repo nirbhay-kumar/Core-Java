@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Static methods are not polymorphic
-
+package polymorphism;
 class StaticSuper {
   public static String staticGet() {
     return "Base staticGet()";

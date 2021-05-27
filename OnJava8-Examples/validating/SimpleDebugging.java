@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // {ThrowsException}
-
+package validating;
 public class SimpleDebugging {
   private static void foo1() {
     System.out.println("In foo1");

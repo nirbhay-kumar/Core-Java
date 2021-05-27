@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // The clone() operation works for only a few
 // items in the standard Java library
+package references;
 import java.util.*;
 import java.util.stream.*;
 

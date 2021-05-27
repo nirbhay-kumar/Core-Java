@@ -5,6 +5,7 @@
 // A very simple version of the "grep" program
 // {java JGrep
 // WhitherStringBuilder.java 'return|for|String'}
+package strings;
 import java.util.regex.*;
 import java.nio.file.*;
 import java.util.stream.*;

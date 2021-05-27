@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // A constructor to copy an object of the same
 // type, as an attempt to create a local copy
+package references;
 import java.lang.reflect.*;
 
 class FruitQualities {

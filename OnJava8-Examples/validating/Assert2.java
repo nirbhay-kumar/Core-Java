@@ -5,7 +5,7 @@
 // Assert with an information-expression
 // {java Assert2 -ea}
 // {ThrowsException}
-
+package validating;
 public class Assert2 {
   public static void main(String[] args) {
     assert false:

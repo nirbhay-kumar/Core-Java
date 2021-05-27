@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // {java onjava.Hex}
-package onjava;
+package strings;
 import java.io.*;
 import java.nio.file.*;
 

@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Assertions that are always enabled.
+package validating;
 import com.google.common.base.*;
 import static com.google.common.base.Verify.*;
 

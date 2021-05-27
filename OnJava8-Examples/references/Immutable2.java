@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // A companion class to modify immutable objects
-
+package references;
 class Mutable {
   private int data;
   Mutable(int initVal) {

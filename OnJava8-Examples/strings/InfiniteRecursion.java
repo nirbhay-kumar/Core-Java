@@ -5,6 +5,7 @@
 // Accidental recursion
 // {ThrowsException}
 // {VisuallyInspectOutput} Throws very long exception
+package strings;
 import java.util.*;
 import java.util.stream.*;
 

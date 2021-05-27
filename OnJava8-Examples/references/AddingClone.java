@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // You must go through a few gyrations
 // to add cloning to your own class
+package references;
 import java.util.*;
 import java.util.stream.*;
 

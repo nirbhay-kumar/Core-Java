@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Relying on a common resource
+package validating;
 import java.util.*;
 import onjava.Timer;
 

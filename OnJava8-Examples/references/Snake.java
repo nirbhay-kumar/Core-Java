@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Tests cloning to see if reference
 // destinations are also cloned
-
+package references;
 public class Snake implements Cloneable {
   private Snake next;
   private char c;

@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Constructors and polymorphism
 // don't produce what you might expect
-
+package polymorphism;
 class Glyph {
   void draw() { System.out.println("Glyph.draw()"); }
   Glyph() {

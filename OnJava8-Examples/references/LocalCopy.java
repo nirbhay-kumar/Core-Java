@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Creating local copies with clone()
-
+package references;
 class Duplo implements Cloneable {
   private int n;
   Duplo(int n) { this.n = n; }

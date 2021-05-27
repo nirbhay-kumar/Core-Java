@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Using the class loader to enable assertions
 // {ThrowsException}
-
+package validating;
 public class LoaderAssertions {
   public static void main(String[] args) {
     ClassLoader.getSystemClassLoader()

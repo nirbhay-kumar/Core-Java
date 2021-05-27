@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Immutable objects are immune to aliasing
-
+package references;
 public class Immutable1 {
   private int data;
   public Immutable1(int initVal) {

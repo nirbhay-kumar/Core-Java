@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Cleaning up shared member objects
-
+package polymorphism;
 class Shared {
   private int refcount = 0;
   private static long counter = 0;

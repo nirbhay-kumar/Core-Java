@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Direct field access is determined at compile time
-
+package polymorphism;
 class Super {
   public int field = 0;
   public int getField() { return field; }

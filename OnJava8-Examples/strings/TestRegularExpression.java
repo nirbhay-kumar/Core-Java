@@ -5,6 +5,7 @@
 // Simple regular expression demonstration
 // {java TestRegularExpression
 // abcabcabcdefabc "abc+" "(abc)+" }
+package strings;
 import java.util.regex.*;
 
 public class TestRegularExpression {
