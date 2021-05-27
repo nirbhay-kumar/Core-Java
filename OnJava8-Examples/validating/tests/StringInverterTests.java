@@ -3,10 +3,10 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 package validating.tests;
-import java.util.*;
-import java.util.stream.*;
-import org.junit.jupiter.api.*;
-import static org.junit.jupiter.api.Assertions.*;
+import java.util.stream.Collectors;
+
+import onjava.atunit.Test;
+import validating.Inverter4;
 
 public class StringInverterTests {
   StringInverter inverter = new Inverter4();

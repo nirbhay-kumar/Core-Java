@@ -4,6 +4,11 @@
 // Visit http://OnJava8.com for more book information.
 package references.tests;
 import org.junit.jupiter.api.*;
+
+import references.DepthReading;
+import references.OceanReading;
+import references.TemperatureReading;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class DeepCopyTest {

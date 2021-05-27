@@ -6,6 +6,9 @@
 package validating.tests;
 import java.util.*;
 import org.junit.jupiter.api.*;
+
+import validating.CountedList;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class CountedListTest {

@@ -3,12 +3,18 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 package validating.tests;
-import java.util.*;
-import java.util.function.*;
-import java.util.stream.*;
-import org.junit.jupiter.api.*;
+import java.util.Arrays;
+import java.util.List;
+import java.util.function.Function;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.DynamicTest.*;
+
+import validating.Inverter1;
+import validating.Inverter2;
+import validating.Inverter3;
+import validating.Inverter4;
 
 class DynamicStringInverterTests {
   // Combine operations to prevent code duplication:

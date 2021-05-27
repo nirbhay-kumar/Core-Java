@@ -4,6 +4,10 @@
 // Visit http://OnJava8.com for more book information.
 package validating.tests;
 import org.junit.jupiter.api.*;
+
+import validating.CircularQueue;
+import validating.CircularQueueException;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class CircularQueueTest {

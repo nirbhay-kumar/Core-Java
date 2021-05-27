@@ -4,7 +4,6 @@
 // Visit http://OnJava8.com for more book information.
 // {WillNotCompile}
 package hiding;
-import hiding.packageaccess.*;
 
 public class CreatePackageAccessObject {
   public static void main(String[] args) {
