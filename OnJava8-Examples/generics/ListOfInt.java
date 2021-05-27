@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Autoboxing compensates for the inability
 // to use primitives in generics
+package generics;
 import java.util.*;
 import java.util.stream.*;
 

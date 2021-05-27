@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Using Collection.checkedList()
+package generics;
 import reflection.pets.*;
 import java.util.*;
 

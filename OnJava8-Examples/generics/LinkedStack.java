@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // A stack implemented with an internal linked structure
-
+package generics;
 public class LinkedStack<T> {
   private static class Node<U> {
     U item;

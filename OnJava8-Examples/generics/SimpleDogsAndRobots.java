@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Removing the generic; code still works
-
+package generics;
 class CommunicateSimply {
   static void perform(Performs performer) {
     performer.speak();
