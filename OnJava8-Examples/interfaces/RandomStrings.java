@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Implementing an interface to conform to a method
+package interfaces;
 import java.nio.*;
 import java.util.*;
 

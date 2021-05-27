@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Creating an adapter with inheritance
+package interfaces;
 import java.nio.*;
 import java.util.*;
 

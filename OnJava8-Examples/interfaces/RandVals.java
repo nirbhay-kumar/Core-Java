@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Initializing interface fields with
 // non-constant initializers
+package interfaces;
 import java.util.*;
 
 public interface RandVals {

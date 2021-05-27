@@ -2,7 +2,7 @@
 // (c)2021 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
-
+package interfaces;
 abstract class AbstractAccess {
   private void m1() {}
   // private abstract void m1a(); // illegal

@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // A Game framework using Factory Methods
-
+package interfaces;
 interface Game { boolean move(); }
 interface GameFactory { Game getGame(); }
 

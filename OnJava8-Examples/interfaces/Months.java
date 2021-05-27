@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Using interfaces to create groups of constants
-
+package interfaces;
 public interface Months {
   int
     JANUARY = 1, FEBRUARY = 2, MARCH = 3,
