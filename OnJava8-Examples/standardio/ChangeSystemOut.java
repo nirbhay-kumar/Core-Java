@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Turn System.out into a PrintWriter
+package standardio;
 import java.io.*;
 
 public class ChangeSystemOut {

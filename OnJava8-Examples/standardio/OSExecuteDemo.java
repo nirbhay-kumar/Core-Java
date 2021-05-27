@@ -5,6 +5,7 @@
 // Demonstrates standard I/O redirection
 // javap -cp build/classes/java/main OSExecuteDemo
 // {ExcludeFromGradle}
+package standardio;
 import onjava.*;
 
 public class OSExecuteDemo {}
