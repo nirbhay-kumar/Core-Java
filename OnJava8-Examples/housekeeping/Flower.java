@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Calling constructors with "this"
-
+package housekeeping;
 public class Flower {
   int petalCount = 0;
   String s = "initial value";

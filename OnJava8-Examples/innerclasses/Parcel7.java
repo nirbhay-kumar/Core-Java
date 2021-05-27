@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Returning an instance of an anonymous inner class
-
+package innerclasses;
 public class Parcel7 {
   public Contents contents() {
     return new Contents() { // Insert class definition

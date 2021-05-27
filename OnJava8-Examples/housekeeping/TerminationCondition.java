@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Using finalize() to detect an object that
 // hasn't been properly cleaned up
+package housekeeping;
 import onjava.*;
 
 class Book {

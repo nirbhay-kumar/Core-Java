@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Using array syntax to create variable argument lists
-
+package housekeeping;
 public class NewVarArgs {
   static void printArray(Object... args) {
     for(Object obj : args)

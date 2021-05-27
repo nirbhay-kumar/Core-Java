@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Putting test code in a nested class
 // {java TestBed$Tester}
-
+package innerclasses;
 public class TestBed {
   public void f() { System.out.println("f()"); }
   public static class Tester {

@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Nesting a class within a method
-
+package innerclasses;
 public class Parcel5 {
   public Destination destination(String s) {
     final class PDestination implements Destination {

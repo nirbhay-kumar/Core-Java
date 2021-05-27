@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Accesses a class in a separate compilation unit
-
+package hiding;
 class Cake {
   public static void main(String[] args) {
     Pie x = new Pie();

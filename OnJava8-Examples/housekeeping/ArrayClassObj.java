@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Creating an array of nonprimitive objects
+package housekeeping;
 import java.util.*;
 
 public class ArrayClassObj {

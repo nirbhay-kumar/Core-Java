@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Calling the base-class constructor
-
+package innerclasses;
 public class Parcel8 {
   public Wrapping wrapping(int x) {
     // Base constructor call:

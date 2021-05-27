@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Demotion of primitives
-
+package housekeeping;
 public class Demotion {
   void f1(double x) {
     System.out.println("f1(double)");

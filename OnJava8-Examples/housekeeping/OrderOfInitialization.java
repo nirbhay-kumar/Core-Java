@@ -6,6 +6,7 @@
 
 // When the constructor is called to create a
 // Window object, you'll see a message:
+package housekeeping;
 class Window {
   Window(int marker) {
     System.out.println("Window(" + marker + ")");

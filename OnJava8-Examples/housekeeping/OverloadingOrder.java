@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Overloading based on parameter order
-
+package housekeeping;
 public class OverloadingOrder {
   static void f(String s, int i) {
     System.out.println("String: " + s + ", int: " + i);

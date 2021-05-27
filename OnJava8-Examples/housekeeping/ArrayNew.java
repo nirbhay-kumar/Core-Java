@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Creating arrays with new
+package housekeeping;
 import java.util.*;
 
 public class ArrayNew {

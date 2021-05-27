@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Proper inheritance of an inner class
-
+package innerclasses;
 class Egg2 {
   protected class Yolk {
     public Yolk() {

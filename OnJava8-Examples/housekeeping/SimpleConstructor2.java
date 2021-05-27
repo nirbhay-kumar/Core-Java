@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Constructors can have parameters
-
+package housekeeping;
 class Rock2 {
   Rock2(int i) {
     System.out.print("Rock " + i + " ");

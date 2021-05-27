@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Promotion of primitives and overloading
-
+package housekeeping;
 public class PrimitiveOverloading {
   void f1(char x) { System.out.print("f1(char) "); }
   void f1(byte x) { System.out.print("f1(byte) "); }

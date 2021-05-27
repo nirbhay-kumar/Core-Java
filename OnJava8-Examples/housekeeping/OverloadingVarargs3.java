@@ -2,7 +2,7 @@
 // (c)2021 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
-
+package housekeeping;
 public class OverloadingVarargs3 {
   static void f(float i, Character... args) {
     System.out.println("first");

@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Demonstration of a simple constructor
-
+package housekeeping;
 class Rock {
   Rock() { // This is the constructor
     System.out.print("Rock ");

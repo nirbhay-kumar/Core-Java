@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Simple use of the "this" keyword
-
+package housekeeping;
 public class Leaf {
   int i = 0;
   Leaf increment() {

@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Nesting a class within a scope
-
+package innerclasses;
 public class Parcel6 {
   private void internalTracking(boolean b) {
     if(b) {

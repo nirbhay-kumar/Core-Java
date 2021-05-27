@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Demonstrates class access specifiers. Make a class
 // effectively private with private constructors:
-
+package hiding;
 class Soup1 {
   private Soup1() {}
   public static Soup1 makeSoup() {          // [1]

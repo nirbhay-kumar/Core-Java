@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // {WillNotCompile}
-
+package housekeeping;
 public class OverloadingVarargs2 {
   static void f(float i, Character... args) {
     System.out.println("first");

@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Specifying initial values in a class definition
-
+package housekeeping;
 class Bowl {
   Bowl(int marker) {
     System.out.println("Bowl(" + marker + ")");

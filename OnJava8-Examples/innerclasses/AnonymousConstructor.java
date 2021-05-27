@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Creating a constructor for an anonymous inner class
-
+package innerclasses;
 abstract class Base {
   Base(int i) {
     System.out.println("Base constructor, i = " + i);

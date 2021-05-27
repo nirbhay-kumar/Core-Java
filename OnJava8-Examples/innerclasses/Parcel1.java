@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Creating inner classes
-
+package innerclasses;
 public class Parcel1 {
   class Contents {
     private int i = 11;

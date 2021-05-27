@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Using "instance initialization" to perform
 // construction on an anonymous inner class
-
+package innerclasses;
 public class Parcel10 {
   public Destination
   destination(final String dest, final float price) {

@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Returning a reference to an inner class
-
+package innerclasses;
 public class Parcel2 {
   class Contents {
     private int i = 11;

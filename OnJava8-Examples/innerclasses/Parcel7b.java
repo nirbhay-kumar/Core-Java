@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Expanded version of Parcel7.java
-
+package innerclasses;
 public class Parcel7b {
   class MyContents implements Contents {
     private int i = 11;

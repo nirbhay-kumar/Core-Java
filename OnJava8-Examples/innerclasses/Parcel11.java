@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Nested classes (static inner classes)
-
+package innerclasses;
 public class Parcel11 {
   private static class
   ParcelContents implements Contents {

@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Nested classes can access all members of all
 // levels of the classes they are nested within
-
+package innerclasses;
 class MNA {
   private void f() {}
   class A {
