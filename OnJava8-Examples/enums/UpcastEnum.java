@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // No values() method if you upcast an enum
-
+package enums;
 enum Search { HITHER, YON }
 
 public class UpcastEnum {

@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Hidden deadlock
 // {ExcludeFromGradle} Gradle has trouble
+package concurrent;
 import java.util.*;
 import java.util.concurrent.*;
 import onjava.Nap;

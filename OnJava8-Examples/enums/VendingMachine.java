@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // {java VendingMachine VendingMachineInput.txt}
+package enums;
 import java.util.*;
 import java.io.IOException;
 import java.util.function.*;

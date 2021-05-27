@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // A simple Map.Entry for sample Map implementations
+package equalshashcode;
 import java.util.*;
 
 public class MapEntry<K, V> implements Map.Entry<K, V> {

@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Break and continue keywords
+package control;
 import static onjava.Range.*;
 
 public class BreakAndContinue {

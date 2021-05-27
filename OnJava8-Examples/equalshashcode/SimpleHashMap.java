@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // A demonstration hashed Map
+package equalshashcode;
 import java.util.*;
 import onjava.*;
 

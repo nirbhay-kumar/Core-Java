@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // A class that's used as a key in a HashMap
 // must override hashCode() and equals()
+package equalshashcode;
 import java.util.*;
 
 public class Groundhog2 extends Groundhog {

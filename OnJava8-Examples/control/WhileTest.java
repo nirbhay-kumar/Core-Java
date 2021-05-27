@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Demonstrates the while loop
-
+package control;
 public class WhileTest {
   static boolean condition() {
     boolean result = Math.random() < 0.99;

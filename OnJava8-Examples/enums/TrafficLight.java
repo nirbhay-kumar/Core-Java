@@ -5,6 +5,7 @@
 // Enums in switch statements
 
 // Define an enum type:
+package enums;
 enum Signal { GREEN, YELLOW, RED, }
 
 public class TrafficLight {

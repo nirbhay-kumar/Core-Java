@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Analyzing enums using reflection
+package enums;
 import java.lang.reflect.*;
 import java.util.*;
 import onjava.*;

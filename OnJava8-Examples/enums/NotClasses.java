@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // {ExcludeFromGradle}
 // javap -c LikeClasses
-
+package enums;
 enum LikeClasses {
   WINKEN {
     @Override void behavior() {

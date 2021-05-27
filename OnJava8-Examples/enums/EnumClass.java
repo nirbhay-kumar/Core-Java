@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Capabilities of the Enum class
-
+package enums;
 enum Shrubbery { GROUND, CRAWLING, HANGING }
 
 public class EnumClass {

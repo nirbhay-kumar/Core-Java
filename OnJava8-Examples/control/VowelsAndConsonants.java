@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Demonstrates the switch statement
+package control;
 import java.util.*;
 
 public class VowelsAndConsonants {

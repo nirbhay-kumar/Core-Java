@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Does Math.random() produce 0.0 and 1.0?
 // {java RandomBounds lower}
+package control;
 import onjava.*;
 
 public class RandomBounds {

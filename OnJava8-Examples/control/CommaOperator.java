@@ -2,7 +2,7 @@
 // (c)2021 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
-
+package control;
 public class CommaOperator {
   public static void main(String[] args) {
     for(int i = 1, j = i + 10; i < 5; i++, j = i * 2) {
