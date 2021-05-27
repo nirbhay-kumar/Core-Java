@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Tests all operators on all primitive data types
 // to show which ones are accepted by the Java compiler
-
+package operators;
 public class AllOps {
   // To accept the results of a Boolean test:
   void f(boolean b) {}

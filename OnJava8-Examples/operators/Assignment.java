@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Assignment with objects is a bit tricky
-
+package operators;
 class Tank {
   int level;
 }

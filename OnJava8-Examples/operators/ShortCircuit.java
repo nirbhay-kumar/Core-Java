@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Short-circuiting behavior with logical operators
-
+package operators;
 public class ShortCircuit {
   static boolean test1(int val) {
     System.out.println("test1(" + val + ")");

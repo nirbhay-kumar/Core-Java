@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // "e" means "10 to the power."
-
+package operators;
 public class Exponents {
   public static void main(String[] args) {
     // Uppercase and lowercase 'e' are the same:

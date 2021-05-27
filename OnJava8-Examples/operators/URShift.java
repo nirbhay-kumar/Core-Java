@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Test of unsigned right shift
-
+package operators;
 public class URShift {
   public static void main(String[] args) {
     int i = -1;

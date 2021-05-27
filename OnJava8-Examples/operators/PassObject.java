@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Passing objects to methods might not be
 // what you're used to
-
+package operators;
 class Letter {
   char c;
 }
