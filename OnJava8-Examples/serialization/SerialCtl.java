@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Controlling serialization by adding your own
 // writeObject() and readObject() methods
+package serialization;
 import java.io.*;
 
 public class SerialCtl implements Serializable {

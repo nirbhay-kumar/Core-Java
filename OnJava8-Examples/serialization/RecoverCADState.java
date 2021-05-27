@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Restoring the state of the fictitious CAD system
 // {RunFirst: AStoreCADState}
+package serialization;
 import java.io.*;
 import java.util.*;
 

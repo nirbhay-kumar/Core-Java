@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // "Blank" final fields
-
+package reuse;
 class Poppet {
   private int i;
   Poppet(int ii) { i = ii; }

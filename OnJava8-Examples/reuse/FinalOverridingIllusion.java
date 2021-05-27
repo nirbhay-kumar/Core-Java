@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // It only looks like you can override
 // a private or private final method
-
+package reuse;
 class WithFinals {
   // Identical to "private" alone:
   private final void f() {

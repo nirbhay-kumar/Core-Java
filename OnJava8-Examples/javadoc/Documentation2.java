@@ -6,4 +6,5 @@
  * System.out.println(new Date());
  * </pre>
  */
+package javadoc;
 public class Documentation2 {}

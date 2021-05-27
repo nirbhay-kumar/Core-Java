@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Use the XOM library to write and read XML
 // nu.xom.Node comes from http://www.xom.nu
+package serialization;
 import nu.xom.*;
 import java.io.*;
 import java.util.*;

@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Making an entire class final
-
+package reuse;
 class SmallBrain {}
 
 final class Dinosaur {

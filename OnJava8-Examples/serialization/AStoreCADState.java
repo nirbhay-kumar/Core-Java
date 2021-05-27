@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Saving the state of a fictitious CAD system
+package serialization;
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;

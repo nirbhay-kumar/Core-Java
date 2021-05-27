@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Testing for end of file
 // {VisuallyInspectOutput}
+package iostreams;
 import java.io.*;
 
 public class TestEOF {

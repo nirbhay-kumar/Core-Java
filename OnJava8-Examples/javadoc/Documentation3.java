@@ -10,5 +10,5 @@
  * <li> Item three
  * </ol>
  */
-
+package javadoc;
 public class Documentation3 {}

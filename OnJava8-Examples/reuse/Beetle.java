@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // The full process of initialization
-
+package reuse;
 class Insect {
   private int i = 9;
   protected int j;

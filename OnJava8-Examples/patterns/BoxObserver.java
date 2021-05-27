@@ -5,6 +5,7 @@
 // Demonstration of the Observer pattern using
 // Java's built-in observer classes.
 // {ExcludeFromGradle} // Won't work under WSL2
+package patterns;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

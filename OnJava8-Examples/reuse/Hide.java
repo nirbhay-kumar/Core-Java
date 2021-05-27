@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Overloading a base-class method name in a derived
 // class does not hide the base-class versions
-
+package reuse;
 class Homer {
   char doh(char c) {
     System.out.println("doh(char)");

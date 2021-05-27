@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Inheritance, constructors and arguments
-
+package reuse;
 class Game {
   Game(int i) {
     System.out.println("Game constructor");

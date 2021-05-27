@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Simple use of Externalizable & a pitfall
+package serialization;
 import java.io.*;
 
 class Blip1 implements Externalizable {

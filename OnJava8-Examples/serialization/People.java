@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // nu.xom.Node comes from http://www.xom.nu
 // {RunFirst: APerson}
+package serialization;
 import nu.xom.*;
 import java.io.File;
 import java.util.*;
