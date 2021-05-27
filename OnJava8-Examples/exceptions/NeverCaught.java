@@ -4,7 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // Ignoring RuntimeExceptions
 // {ThrowsException}
-
+package exceptions;
 public class NeverCaught {
   static void f() {
     throw new RuntimeException("From f()");

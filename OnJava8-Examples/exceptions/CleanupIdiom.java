@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Disposable objects must be followed by a try-finally
-
+package exceptions;
 class NeedsCleanup { // Construction can't fail
   private static long counter = 1;
   private final long id = counter++;

@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Creating your own exceptions
-
+package exceptions;
 class SimpleException extends Exception {}
 
 public class InheritingExceptions {

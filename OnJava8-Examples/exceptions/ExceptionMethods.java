@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Demonstrating the Exception Methods
-
+package exceptions;
 public class ExceptionMethods {
   public static void main(String[] args) {
     try {

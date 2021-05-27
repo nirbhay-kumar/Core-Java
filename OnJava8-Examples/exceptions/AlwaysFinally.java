@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Finally is always executed
-
+package exceptions;
 class FourException extends Exception {}
 
 public class AlwaysFinally {

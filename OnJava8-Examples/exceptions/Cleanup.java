@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Guaranteeing proper cleanup of a resource
-
+package exceptions;
 public class Cleanup {
   public static void main(String[] args) {
     try {

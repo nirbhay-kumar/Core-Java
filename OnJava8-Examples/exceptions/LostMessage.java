@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // How an exception can be lost
-
+package exceptions;
 class VeryImportantException extends Exception {
   @Override public String toString() {
     return "A very important exception!";

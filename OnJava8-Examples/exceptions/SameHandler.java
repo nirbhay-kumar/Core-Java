@@ -2,7 +2,7 @@
 // (c)2021 MindView LLC: see Copyright.txt
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
-
+package exceptions;
 class EBase1 extends Exception {}
 class Except1 extends EBase1 {}
 class EBase2 extends Exception {}

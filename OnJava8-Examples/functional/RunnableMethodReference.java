@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Method references with interface Runnable
-
+package functional;
 class Go {
   static void go() {
     System.out.println("Go::go()");

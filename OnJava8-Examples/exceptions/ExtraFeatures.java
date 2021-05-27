@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Further embellishment of exception classes
-
+package exceptions;
 class MyException2 extends Exception {
   private int x;
   MyException2() {}

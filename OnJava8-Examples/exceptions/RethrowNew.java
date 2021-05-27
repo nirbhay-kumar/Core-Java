@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Rethrow a different object from the one you caught
-
+package exceptions;
 class OneException extends Exception {
   OneException(String s) { super(s); }
 }

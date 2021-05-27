@@ -5,6 +5,7 @@
 // A Class that dynamically adds fields to itself to
 // demonstrate exception chaining
 
+package exceptions;
 class DynamicFieldsException extends Exception {}
 
 public class DynamicFields {

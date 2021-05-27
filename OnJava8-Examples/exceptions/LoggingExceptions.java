@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // An exception that reports through a Logger
 // {ErrorOutputExpected}
+package exceptions;
 import java.util.logging.*;
 import java.io.*;
 

@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Demonstrating fillInStackTrace()
-
+package exceptions;
 public class Rethrowing {
   public static void f() throws Exception {
     System.out.println(
