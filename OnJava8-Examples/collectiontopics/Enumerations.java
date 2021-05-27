@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Java 1.0/1.1 Vector and Enumeration
+package collectiontopics;
 import java.util.*;
 import onjava.*;
 

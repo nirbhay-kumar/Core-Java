@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Sorting/searching Lists with Collections utilities
+package collectiontopics;
 import java.util.*;
 
 public class ListSortSearch {

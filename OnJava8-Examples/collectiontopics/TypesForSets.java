@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Methods necessary to put your own type in a Set
+package collectiontopics;
 import java.util.*;
 import java.util.function.*;
 import java.util.Objects;

@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // The "Adapter Method" idiom uses for-in
 // with additional kinds of Iterables
+package collections;
 import java.util.*;
 
 class ReversibleArrayList<T> extends ArrayList<T> {

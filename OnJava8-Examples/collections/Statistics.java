@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Simple demonstration of HashMap
-import java.util.*;
+package collections;import java.util.*;
 
 public class Statistics {
   public static void main(String[] args) {

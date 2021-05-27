@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Adding several Adapter Methods
+package collections;
 import java.util.*;
 
 public class MultiIterableClass extends IterableClass {

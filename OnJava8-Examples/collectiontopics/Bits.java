@@ -3,7 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Demonstration of BitSet
-import java.util.*;
+package collectiontopics;import java.util.*;
 
 public class Bits {
   public static void printBitSet(BitSet b) {

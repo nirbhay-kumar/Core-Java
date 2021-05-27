@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Things you can do with Maps
+package collectiontopics;
 import java.util.concurrent.*;
 import java.util.*;
 import onjava.*;

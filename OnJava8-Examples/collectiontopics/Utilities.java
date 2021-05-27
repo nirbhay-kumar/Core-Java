@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Simple demonstrations of the Collections utilities
+package collectiontopics;
 import java.util.*;
 
 public class Utilities {

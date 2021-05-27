@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Demonstrates the "fail-fast" behavior
+package collectiontopics;
 import java.util.*;
 
 public class FailFast {

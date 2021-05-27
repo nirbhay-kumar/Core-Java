@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // A more complex use of PriorityQueue
+package collectiontopics;
 import java.util.*;
 
 class ToDoItem implements Comparable<ToDoItem> {

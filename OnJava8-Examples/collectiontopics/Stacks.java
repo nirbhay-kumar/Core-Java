@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Demonstration of Stack Class
+package collectiontopics;
 import java.util.*;
 
 enum Month { JANUARY, FEBRUARY, MARCH, APRIL,

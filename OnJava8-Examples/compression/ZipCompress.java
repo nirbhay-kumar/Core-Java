@@ -6,6 +6,7 @@
 // number of files given on the command line
 // {java ZipCompress ZipCompress.java}
 // {VisuallyInspectOutput}
+package compression;
 import java.util.zip.*;
 import java.io.*;
 import java.util.*;

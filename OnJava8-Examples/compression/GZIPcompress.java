@@ -4,6 +4,7 @@
 // Visit http://OnJava8.com for more book information.
 // {java GZIPcompress GZIPcompress.java}
 // {VisuallyInspectOutput}
+package compression;
 import java.util.zip.*;
 import java.io.*;
 
