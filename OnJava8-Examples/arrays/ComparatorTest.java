@@ -3,6 +3,7 @@
 // We make no guarantees that this code is fit for any purpose.
 // Visit http://OnJava8.com for more book information.
 // Implementing a Comparator for a class
+package arrays;
 import java.util.*;
 import onjava.*;
 import static onjava.ArrayShow.*;
