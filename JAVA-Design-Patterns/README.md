@@ -1,4 +1,3 @@
 # Java-Design-Patterns
 - 
-![Java-Design-Patterns](#Java-Design-Patterns.pdf)
-<a href="JAVA-Design-Pattern/Java-Design-Patterns.pdf">Java-Design-Patterns</a>
+![Java-Design-Patterns](#https://github.com/nirbkuma/Core-Java/blob/main/JAVA-Design-Patterns/Java-Design-Patterns.pdf)
