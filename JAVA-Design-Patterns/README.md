@@ -1,3 +1,3 @@
 # Java-Design-Patterns
 
-![Java-Design-Patterns](./Java-Design-Patterns.pdf)
+[Java-Design-Patterns](./Java-Design-Patterns.pdf)
