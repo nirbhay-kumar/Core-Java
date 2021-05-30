@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.iteratorpattern;
+package com.javacode.patterns.iteratorpattern;
 
 public class Shape {
 

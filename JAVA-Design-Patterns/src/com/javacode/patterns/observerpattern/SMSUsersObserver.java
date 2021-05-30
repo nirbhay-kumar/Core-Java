@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.observerpattern;
+package com.javacode.patterns.observerpattern;
 
 import java.util.Observable;
 

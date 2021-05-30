@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.statepattern;
+package com.javacode.patterns.statepattern;
 
 public class RoboticOff implements RoboticState{
 

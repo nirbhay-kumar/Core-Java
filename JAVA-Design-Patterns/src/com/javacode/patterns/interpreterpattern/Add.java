@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.interpreterpattern;
+package com.javacode.patterns.interpreterpattern;
 
 public class Add implements Expression{
 	

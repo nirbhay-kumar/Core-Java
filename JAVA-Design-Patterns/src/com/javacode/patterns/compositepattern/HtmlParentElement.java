@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.compositepattern;
+package com.javacode.patterns.compositepattern;
 
 import java.util.ArrayList;
 import java.util.List;

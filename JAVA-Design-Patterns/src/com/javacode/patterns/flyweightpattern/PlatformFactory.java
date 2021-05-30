@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.flyweightpattern;
+package com.javacode.patterns.flyweightpattern;
 
 import java.util.HashMap;
 import java.util.Map;

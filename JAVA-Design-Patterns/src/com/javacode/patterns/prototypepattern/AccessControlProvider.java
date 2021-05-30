@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.prototypepattern;
+package com.javacode.patterns.prototypepattern;
 
 import java.util.HashMap;
 import java.util.Map;

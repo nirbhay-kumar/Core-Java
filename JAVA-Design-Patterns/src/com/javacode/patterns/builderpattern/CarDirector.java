@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.builderpattern;
+package com.javacode.patterns.builderpattern;
 
 public class CarDirector {
 	

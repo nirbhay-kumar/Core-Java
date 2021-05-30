@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.mediatorpattern;
+package com.javacode.patterns.mediatorpattern;
 
 public class Sensor {
 	

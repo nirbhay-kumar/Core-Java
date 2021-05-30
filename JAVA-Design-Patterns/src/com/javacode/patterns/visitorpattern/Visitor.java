@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.visitorpattern;
+package com.javacode.patterns.visitorpattern;
 
 public interface Visitor {
 	public void visit(HtmlElement element);

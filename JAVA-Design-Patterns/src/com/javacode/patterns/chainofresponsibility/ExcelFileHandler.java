@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.chainofresponsibility;
+package com.javacode.patterns.chainofresponsibility;
 
 public class ExcelFileHandler implements Handler{
 	

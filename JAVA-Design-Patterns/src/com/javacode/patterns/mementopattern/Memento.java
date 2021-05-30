@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.mementopattern;
+package com.javacode.patterns.mementopattern;
 
 public class Memento {
 

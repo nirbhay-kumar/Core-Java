@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.abstractfactorypattern;
+package com.javacode.patterns.abstractfactorypattern;
 
 public class NYParserFactory implements AbstractParserFactory {
 

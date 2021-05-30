@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.iteratorpattern;
+package com.javacode.patterns.iteratorpattern;
 
 import java.util.Iterator;
 

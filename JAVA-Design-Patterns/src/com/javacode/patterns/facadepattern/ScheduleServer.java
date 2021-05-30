@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.facadepattern;
+package com.javacode.patterns.facadepattern;
 
 public class ScheduleServer {
 	

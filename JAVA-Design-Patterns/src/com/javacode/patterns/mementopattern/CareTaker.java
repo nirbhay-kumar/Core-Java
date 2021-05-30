@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.mementopattern;
+package com.javacode.patterns.mementopattern;
 
 import java.util.HashMap;
 import java.util.Map;

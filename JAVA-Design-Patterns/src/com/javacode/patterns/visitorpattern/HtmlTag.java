@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.visitorpattern;
+package com.javacode.patterns.visitorpattern;
 
 import java.util.List;
 

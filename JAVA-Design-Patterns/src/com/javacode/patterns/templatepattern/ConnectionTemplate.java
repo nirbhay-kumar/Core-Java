@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.templatepattern;
+package com.javacode.patterns.templatepattern;
 
 import java.util.Date;
 

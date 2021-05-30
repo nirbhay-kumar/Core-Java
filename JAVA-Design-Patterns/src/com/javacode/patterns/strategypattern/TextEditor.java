@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.strategypattern;
+package com.javacode.patterns.strategypattern;
 
 public class TextEditor {
 	

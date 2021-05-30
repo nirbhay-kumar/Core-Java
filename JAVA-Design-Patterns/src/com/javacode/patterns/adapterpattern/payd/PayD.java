@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.adapterpattern.payd;
+package com.javacode.patterns.adapterpattern.payd;
 
 public interface PayD {
 	

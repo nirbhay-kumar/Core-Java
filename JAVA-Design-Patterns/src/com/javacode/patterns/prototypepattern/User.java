@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.prototypepattern;
+package com.javacode.patterns.prototypepattern;
 
 public class User {
 	

@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.templatepattern;
+package com.javacode.patterns.templatepattern;
 
 public class MySqLCSVCon extends ConnectionTemplate{
 

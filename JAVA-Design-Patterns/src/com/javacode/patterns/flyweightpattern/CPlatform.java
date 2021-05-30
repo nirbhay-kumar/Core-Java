@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.flyweightpattern;
+package com.javacode.patterns.flyweightpattern;
 
 public class CPlatform implements Platform {
 	

@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.factorymethodpattern;
+package com.javacode.patterns.factorymethodpattern;
 
 public class FeedbackXML implements XMLParser{
 
